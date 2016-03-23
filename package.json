@@ -24,6 +24,6 @@
     "glob": "~3.2.8",
     "flatten-array": "azer/flatten-array",
     "uniques": "azer/uniques",
-    "iter": "azer/iter"
+    "iter": "nicolasroy/iter"
   }
 }
